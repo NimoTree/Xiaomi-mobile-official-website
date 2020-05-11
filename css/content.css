@@ -1,0 +1,215 @@
+.swipper{
+	width: 375px;
+	height: 188px;
+	background-image: url(../img/swipper1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	margin-top: 74px;
+}
+.adlist{
+	width: 375px;
+	height: 180px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: space-around;
+}
+.img1{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img2{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list2.webp);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img3{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list3.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img4{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list4.webp);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img5{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list5.webp);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img6{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list6.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img7{
+	width: 75px;
+	height: 80px;
+	background-image:url(../img/list7.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img8{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list9.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img9{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list8.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.img10{
+	width: 75px;
+	height: 80px;
+	background-image: url(../img/list10.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.banner1{
+	width: 375px;
+	height:264px ;
+	display: flex;
+	justify-content: space-between;
+	background-color:rgb(245, 245, 245);
+	margin-bottom: 8px;
+}
+.banner1 .bannerL{
+	width: 186px;
+	height:264px ;
+	background-image: url(../img/bl.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.banner1 .bannerR{
+	width: 186px;
+	height:264px ;
+	display: flex;
+	flex-direction: column;
+}
+.bannerR .bannerRTop{
+	width: 186px;
+	height: 131px;
+	background-image: url(../img/brTop.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.bannerR .bannerRBottom{
+	width: 186px;
+	height: 131px;
+	background-image: url(../img/brb.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+.banner2{
+	width: 375px;
+	height:146px ;
+	background-image: url(../img/b2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	background-color: rgb(245, 245, 245);
+}
+.banner3{
+	width: 375px;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 60px;
+	/* border-bottom:10px red; */
+}
+.banner3 .jx{
+	width: 375px;
+	height:230px ;
+	background-image: url(../img/jxTop.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	
+}
+.banner3 .jxList{
+	width: 375PX;
+	height: auto;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	
+}
+.banner3 .jxListItem{
+	width:50%;
+	height:253px;
+	padding: 3px 3px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.banner3 .jxListItem img{
+	width: 100%;
+	height: auto;
+}
+.banner3 .jxListItem .title{
+	padding-top: 5px;
+	font-size: 15px;
+	color: rgba(0,0,0,.87);
+}
+.banner3 .jxListItem .brief{
+	font-size: 12px;
+	color: rgba(0,0,0,.54);
+}
+.banner3 .jxListItem .price{
+	font-size: 15px;
+	color: #ea625b;
+}
+.banner3 .jxListItem .gm{
+	width: 105px;
+	height: 31px;
+	text-align: center;
+	line-height: 31px;
+	color: #fff;
+	background-color:#ea625b ;
+	border-radius: 3px;
+	font-size: 13px;
+}
+.banner3 .gengduo{
+	width:375px ;
+	height: 52px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+
